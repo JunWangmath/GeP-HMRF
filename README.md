@@ -1,5 +1,5 @@
 #GeP-HMRF V1.0
-# JUN WANG, Peking Univrsity, junwangmath@gmail.com
+#JUN WANG, Peking Univrsity, junwangmath@gmail.com
 
 Inferring Gene-Disease Association by an Integrative Analysis of eQTL GWAS and Protein-Protein Interaction data
 
