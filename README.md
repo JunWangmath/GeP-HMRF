@@ -1,9 +1,10 @@
 # GeP-HMRF V1.0
 
 # Inferring Gene-Disease Association by an Integrative Analysis of eQTL GWAS and Protein-Protein Interaction data
+Link for our paper: https://www.ncbi.nlm.nih.gov/pubmed/30669151
 #Jun WANG, Peking Univrsity, junwangmath@gmail.com
 
-All the GWAS, eQTL and Protein-Protein Interaction dataset are stored at the "source.file.prepared.for.marginal.4coloc" folder. Unzip it and put it in the same folder of other R scripts. Unzip it and put it in the same folder of other R scripts.
+All the GWAS, eQTL and Protein-Protein Interaction dataset are stored at the "source.file.prepared.for.marginal.4coloc" folder. Unzip it and put it in the same folder of the other R scripts.
 
 The main function is "Main.Function.Compute.Marginal.Posterior.Prob.R", which has 6 parameters.
 
